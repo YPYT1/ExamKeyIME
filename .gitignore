@@ -8,7 +8,7 @@
 *.log
 *.log.*
 *.sig
-
+.idea
 pkg/
 src/
 *.iml
