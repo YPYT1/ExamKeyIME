@@ -27,3 +27,4 @@ src/
 .cxx
 local.properties
 .idea/
+/app/src/main/assets/大模型相关文档.md
