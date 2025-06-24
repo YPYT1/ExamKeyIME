@@ -26,3 +26,4 @@ src/
 .externalNativeBuild
 .cxx
 local.properties
+.idea/
