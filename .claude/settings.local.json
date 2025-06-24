@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(./gradlew:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(adb install:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
